@@ -14,8 +14,14 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Satyam-hub25/dsa/tree/master/0682-baseball-game) |
+| [3174-clear-digits](https://github.com/Satyam-hub25/dsa/tree/master/3174-clear-digits) |
 ## Simulation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Satyam-hub25/dsa/tree/master/0682-baseball-game) |
+| [3174-clear-digits](https://github.com/Satyam-hub25/dsa/tree/master/3174-clear-digits) |
+## String
+|  |
+| ------- |
+| [3174-clear-digits](https://github.com/Satyam-hub25/dsa/tree/master/3174-clear-digits) |
 <!---LeetCode Topics End-->
