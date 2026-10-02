@@ -6,13 +6,11 @@ class Solution {
             char ch=s.charAt(i);
           if(Character.isLetter(ch)) {
             st.push(ch);
-          }else if(Character.isDigit(ch)){
+          }else {
             st.pop();
-          }else{
-            st.push(ch);
-          }
+         }
         }
-                 StringBuilder str=new StringBuilder();
+         StringBuilder str=new StringBuilder();
         for(int x=0; x<st.size(); x++){
             str.append(st.get(x));
         }
