@@ -25,6 +25,7 @@
 ## String
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Satyam-hub25/dsa/tree/master/1189-maximum-number-of-balloons) |
 | [3174-clear-digits](https://github.com/Satyam-hub25/dsa/tree/master/3174-clear-digits) |
 ## Dynamic Programming
 |  |
@@ -35,4 +36,12 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Satyam-hub25/dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Hash Table
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Satyam-hub25/dsa/tree/master/1189-maximum-number-of-balloons) |
+## Counting
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Satyam-hub25/dsa/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
