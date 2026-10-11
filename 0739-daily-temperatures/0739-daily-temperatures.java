@@ -1,0 +1,16 @@
+class Solution {
+    public int[] dailyTemperatures(int[] nums) {
+        int n=nums.length;
+        int ans[]=new int[n];
+        Stack<Integer>st=new Stack<>();
+        //max warmer temp ke bad jitne bhi rem tmep honge wo abiosly chote honge so ans[i]==0 for all after max warmer temp
+        for(int i=0; i<n; i++){
+            while (!st.isEmpty() && nums[i] > nums[st.peek()]) {
+                int j=st.pop();
+                ans[j]=i-j;
+            }
+            st.push(i);
+        }
+        return ans;
+    }
+}
