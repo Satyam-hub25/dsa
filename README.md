@@ -8,6 +8,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Satyam-hub25/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Satyam-hub25/dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0162-find-peak-element](https://github.com/Satyam-hub25/dsa/tree/master/0162-find-peak-element) |
+| [0496-next-greater-element-i](https://github.com/Satyam-hub25/dsa/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Satyam-hub25/dsa/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Satyam-hub25/dsa/tree/master/0739-daily-temperatures) |
 | [1710-maximum-units-on-a-truck](https://github.com/Satyam-hub25/dsa/tree/master/1710-maximum-units-on-a-truck) |
@@ -19,6 +20,7 @@
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Satyam-hub25/dsa/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Satyam-hub25/dsa/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Satyam-hub25/dsa/tree/master/0739-daily-temperatures) |
 | [3174-clear-digits](https://github.com/Satyam-hub25/dsa/tree/master/3174-clear-digits) |
@@ -45,6 +47,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Satyam-hub25/dsa/tree/master/0496-next-greater-element-i) |
 | [1189-maximum-number-of-balloons](https://github.com/Satyam-hub25/dsa/tree/master/1189-maximum-number-of-balloons) |
 ## Counting
 |  |
@@ -57,5 +60,6 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Satyam-hub25/dsa/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Satyam-hub25/dsa/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
