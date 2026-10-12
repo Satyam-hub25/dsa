@@ -2,7 +2,6 @@ class Solution {
     public int sumOfSquares(int[] nums) {
         int store=0;
         int n=nums.length;
-
         //1 to ntable
         for(int i=1; i<=n; i++){
             if(n%i==0){
