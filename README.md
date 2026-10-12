@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Satyam-hub25/dsa/tree/master/0151-reverse-words-in-a-string) |
+| [0647-palindromic-substrings](https://github.com/Satyam-hub25/dsa/tree/master/0647-palindromic-substrings) |
 | [1189-maximum-number-of-balloons](https://github.com/Satyam-hub25/dsa/tree/master/1189-maximum-number-of-balloons) |
 | [3174-clear-digits](https://github.com/Satyam-hub25/dsa/tree/master/3174-clear-digits) |
 ## Dynamic Programming
@@ -43,6 +44,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Satyam-hub25/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Satyam-hub25/dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0647-palindromic-substrings](https://github.com/Satyam-hub25/dsa/tree/master/0647-palindromic-substrings) |
 ## Greedy
 |  |
 | ------- |
@@ -75,4 +77,5 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Satyam-hub25/dsa/tree/master/0151-reverse-words-in-a-string) |
+| [0647-palindromic-substrings](https://github.com/Satyam-hub25/dsa/tree/master/0647-palindromic-substrings) |
 <!---LeetCode Topics End-->
