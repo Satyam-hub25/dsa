@@ -17,6 +17,7 @@
 | [0739-daily-temperatures](https://github.com/Satyam-hub25/dsa/tree/master/0739-daily-temperatures) |
 | [1710-maximum-units-on-a-truck](https://github.com/Satyam-hub25/dsa/tree/master/1710-maximum-units-on-a-truck) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Satyam-hub25/dsa/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2865-beautiful-towers-i](https://github.com/Satyam-hub25/dsa/tree/master/2865-beautiful-towers-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Satyam-hub25/dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Search
 |  |
@@ -30,6 +31,7 @@
 | [0503-next-greater-element-ii](https://github.com/Satyam-hub25/dsa/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Satyam-hub25/dsa/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Satyam-hub25/dsa/tree/master/0739-daily-temperatures) |
+| [2865-beautiful-towers-i](https://github.com/Satyam-hub25/dsa/tree/master/2865-beautiful-towers-i) |
 | [3174-clear-digits](https://github.com/Satyam-hub25/dsa/tree/master/3174-clear-digits) |
 ## Simulation
 |  |
@@ -78,6 +80,7 @@
 | [0496-next-greater-element-i](https://github.com/Satyam-hub25/dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Satyam-hub25/dsa/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Satyam-hub25/dsa/tree/master/0739-daily-temperatures) |
+| [2865-beautiful-towers-i](https://github.com/Satyam-hub25/dsa/tree/master/2865-beautiful-towers-i) |
 ## Enumeration
 |  |
 | ------- |
