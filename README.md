@@ -9,6 +9,7 @@
 | [0088-merge-sorted-array](https://github.com/Satyam-hub25/dsa/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Satyam-hub25/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Satyam-hub25/dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Satyam-hub25/dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/Satyam-hub25/dsa/tree/master/0162-find-peak-element) |
 | [0496-next-greater-element-i](https://github.com/Satyam-hub25/dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Satyam-hub25/dsa/tree/master/0503-next-greater-element-ii) |
@@ -57,6 +58,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Satyam-hub25/dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0496-next-greater-element-i](https://github.com/Satyam-hub25/dsa/tree/master/0496-next-greater-element-i) |
 | [1189-maximum-number-of-balloons](https://github.com/Satyam-hub25/dsa/tree/master/1189-maximum-number-of-balloons) |
 ## Counting
@@ -90,4 +92,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Satyam-hub25/dsa/tree/master/0056-merge-intervals) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Satyam-hub25/dsa/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
