@@ -29,6 +29,7 @@
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Satyam-hub25/dsa/tree/master/0071-simplify-path) |
 | [0496-next-greater-element-i](https://github.com/Satyam-hub25/dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Satyam-hub25/dsa/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Satyam-hub25/dsa/tree/master/0682-baseball-game) |
@@ -45,6 +46,7 @@
 ## String
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Satyam-hub25/dsa/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/Satyam-hub25/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/Satyam-hub25/dsa/tree/master/0647-palindromic-substrings) |
 | [1189-maximum-number-of-balloons](https://github.com/Satyam-hub25/dsa/tree/master/1189-maximum-number-of-balloons) |
