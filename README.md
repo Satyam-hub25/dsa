@@ -121,4 +121,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Satyam-hub25/dsa/tree/master/0387-first-unique-character-in-a-string) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/Satyam-hub25/dsa/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
