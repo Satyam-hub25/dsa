@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/Satyam-hub25/dsa/tree/master/0071-simplify-path) |
+| [0225-implement-stack-using-queues](https://github.com/Satyam-hub25/dsa/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/Satyam-hub25/dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Satyam-hub25/dsa/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Satyam-hub25/dsa/tree/master/0682-baseball-game) |
@@ -120,9 +121,14 @@
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Satyam-hub25/dsa/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/Satyam-hub25/dsa/tree/master/0387-first-unique-character-in-a-string) |
 ## Linked List
 |  |
 | ------- |
 | [0328-odd-even-linked-list](https://github.com/Satyam-hub25/dsa/tree/master/0328-odd-even-linked-list) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Satyam-hub25/dsa/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
