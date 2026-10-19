@@ -6,6 +6,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Satyam-hub25/dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0056-merge-intervals](https://github.com/Satyam-hub25/dsa/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/Satyam-hub25/dsa/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/Satyam-hub25/dsa/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Satyam-hub25/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Satyam-hub25/dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -68,6 +69,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Satyam-hub25/dsa/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Satyam-hub25/dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0387-first-unique-character-in-a-string](https://github.com/Satyam-hub25/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Satyam-hub25/dsa/tree/master/0496-next-greater-element-i) |
@@ -131,4 +133,8 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Satyam-hub25/dsa/tree/master/0225-implement-stack-using-queues) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Satyam-hub25/dsa/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
