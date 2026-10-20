@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/Satyam-hub25/dsa/tree/master/0071-simplify-path) |
+| [0143-reorder-list](https://github.com/Satyam-hub25/dsa/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/Satyam-hub25/dsa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Satyam-hub25/dsa/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Satyam-hub25/dsa/tree/master/0496-next-greater-element-i) |
@@ -103,6 +104,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Satyam-hub25/dsa/tree/master/0088-merge-sorted-array) |
+| [0143-reorder-list](https://github.com/Satyam-hub25/dsa/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Satyam-hub25/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/Satyam-hub25/dsa/tree/master/0647-palindromic-substrings) |
 ## Quicksort
@@ -130,6 +132,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Satyam-hub25/dsa/tree/master/0143-reorder-list) |
 | [0328-odd-even-linked-list](https://github.com/Satyam-hub25/dsa/tree/master/0328-odd-even-linked-list) |
 ## Design
 |  |
@@ -140,4 +143,8 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Satyam-hub25/dsa/tree/master/0073-set-matrix-zeroes) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Satyam-hub25/dsa/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
