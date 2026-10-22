@@ -7,6 +7,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Satyam-hub25/dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0056-merge-intervals](https://github.com/Satyam-hub25/dsa/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Satyam-hub25/dsa/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/Satyam-hub25/dsa/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Satyam-hub25/dsa/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Satyam-hub25/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Satyam-hub25/dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -151,4 +152,12 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Satyam-hub25/dsa/tree/master/0143-reorder-list) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Satyam-hub25/dsa/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Satyam-hub25/dsa/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
