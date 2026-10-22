@@ -16,6 +16,7 @@
 | [0496-next-greater-element-i](https://github.com/Satyam-hub25/dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Satyam-hub25/dsa/tree/master/0503-next-greater-element-ii) |
 | [0622-design-circular-queue](https://github.com/Satyam-hub25/dsa/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/Satyam-hub25/dsa/tree/master/0641-design-circular-deque) |
 | [0682-baseball-game](https://github.com/Satyam-hub25/dsa/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Satyam-hub25/dsa/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/Satyam-hub25/dsa/tree/master/0946-validate-stack-sequences) |
@@ -132,18 +133,21 @@
 | [0232-implement-queue-using-stacks](https://github.com/Satyam-hub25/dsa/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Satyam-hub25/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/Satyam-hub25/dsa/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/Satyam-hub25/dsa/tree/master/0641-design-circular-deque) |
 ## Linked List
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Satyam-hub25/dsa/tree/master/0143-reorder-list) |
 | [0328-odd-even-linked-list](https://github.com/Satyam-hub25/dsa/tree/master/0328-odd-even-linked-list) |
 | [0622-design-circular-queue](https://github.com/Satyam-hub25/dsa/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/Satyam-hub25/dsa/tree/master/0641-design-circular-deque) |
 ## Design
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Satyam-hub25/dsa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Satyam-hub25/dsa/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/Satyam-hub25/dsa/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/Satyam-hub25/dsa/tree/master/0641-design-circular-deque) |
 ## Matrix
 |  |
 | ------- |
