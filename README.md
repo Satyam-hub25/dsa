@@ -26,6 +26,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/Satyam-hub25/dsa/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2865-beautiful-towers-i](https://github.com/Satyam-hub25/dsa/tree/master/2865-beautiful-towers-i) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Satyam-hub25/dsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2974-minimum-number-game](https://github.com/Satyam-hub25/dsa/tree/master/2974-minimum-number-game) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Satyam-hub25/dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Search
 |  |
@@ -51,6 +52,7 @@
 | ------- |
 | [0682-baseball-game](https://github.com/Satyam-hub25/dsa/tree/master/0682-baseball-game) |
 | [0946-validate-stack-sequences](https://github.com/Satyam-hub25/dsa/tree/master/0946-validate-stack-sequences) |
+| [2974-minimum-number-game](https://github.com/Satyam-hub25/dsa/tree/master/2974-minimum-number-game) |
 | [3174-clear-digits](https://github.com/Satyam-hub25/dsa/tree/master/3174-clear-digits) |
 ## String
 |  |
@@ -94,6 +96,7 @@
 | [0088-merge-sorted-array](https://github.com/Satyam-hub25/dsa/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Satyam-hub25/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/Satyam-hub25/dsa/tree/master/1710-maximum-units-on-a-truck) |
+| [2974-minimum-number-game](https://github.com/Satyam-hub25/dsa/tree/master/2974-minimum-number-game) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Satyam-hub25/dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Monotonic Stack
 |  |
@@ -177,6 +180,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Satyam-hub25/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Satyam-hub25/dsa/tree/master/0239-sliding-window-maximum) |
+| [2974-minimum-number-game](https://github.com/Satyam-hub25/dsa/tree/master/2974-minimum-number-game) |
 ## Monotonic Queue
 |  |
 | ------- |
