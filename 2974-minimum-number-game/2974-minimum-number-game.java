@@ -1,23 +1,26 @@
 class Solution {
     public int[] numberGame(int[] nums) {
-        int i=0;
-        int j=i+1;
-        int temp=0;
-        Arrays.sort(nums);
-        //condition
-        while(j < nums.length){
-            temp=nums[i];
-            nums[i]=nums[j];
-            nums[j]=temp;
-              i+=2;
-        j+=2;
-        }
-      //adding in new array ans
-            int ans[]=new int[nums.length];
-        for(int k=0; k<ans.length; k++){
-          ans[k]=nums[k];
-          
-        }
-        return ans;
+       //we have to find min element so we cna use minheap 
+       PriorityQueue<Integer> pq=new PriorityQueue<>();
+
+       for(int i=0; i<nums.length; i++){
+        pq.add(nums[i]);
+       }
+       //first min
+       int a=0;
+       //second min
+       int b=0;
+       int ans[]=new int[nums.length];
+       int i=0;
+       while(!pq.isEmpty()){
+        //first min
+       a=pq.remove();
+       //second min
+       b=pq.remove();
+       ans[i++]=b;
+       ans[i++]=a;
+       }
+       
+       return ans;
     }
 }
