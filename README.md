@@ -15,6 +15,7 @@
 | [0162-find-peak-element](https://github.com/Satyam-hub25/dsa/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Satyam-hub25/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Satyam-hub25/dsa/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/Satyam-hub25/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Satyam-hub25/dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Satyam-hub25/dsa/tree/master/0503-next-greater-element-ii) |
 | [0622-design-circular-queue](https://github.com/Satyam-hub25/dsa/tree/master/0622-design-circular-queue) |
@@ -80,6 +81,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Satyam-hub25/dsa/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Satyam-hub25/dsa/tree/master/0128-longest-consecutive-sequence) |
+| [0347-top-k-frequent-elements](https://github.com/Satyam-hub25/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Satyam-hub25/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Satyam-hub25/dsa/tree/master/0496-next-greater-element-i) |
 | [1189-maximum-number-of-balloons](https://github.com/Satyam-hub25/dsa/tree/master/1189-maximum-number-of-balloons) |
@@ -87,6 +89,7 @@
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Satyam-hub25/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Satyam-hub25/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Satyam-hub25/dsa/tree/master/1189-maximum-number-of-balloons) |
 ## Sorting
@@ -95,6 +98,7 @@
 | [0056-merge-intervals](https://github.com/Satyam-hub25/dsa/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Satyam-hub25/dsa/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Satyam-hub25/dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Satyam-hub25/dsa/tree/master/0347-top-k-frequent-elements) |
 | [1710-maximum-units-on-a-truck](https://github.com/Satyam-hub25/dsa/tree/master/1710-maximum-units-on-a-truck) |
 | [2974-minimum-number-game](https://github.com/Satyam-hub25/dsa/tree/master/2974-minimum-number-game) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Satyam-hub25/dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -180,6 +184,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Satyam-hub25/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Satyam-hub25/dsa/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/Satyam-hub25/dsa/tree/master/0347-top-k-frequent-elements) |
 | [2974-minimum-number-game](https://github.com/Satyam-hub25/dsa/tree/master/2974-minimum-number-game) |
 ## Monotonic Queue
 |  |
@@ -193,8 +198,14 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Satyam-hub25/dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Satyam-hub25/dsa/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Satyam-hub25/dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Satyam-hub25/dsa/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Satyam-hub25/dsa/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
