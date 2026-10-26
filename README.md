@@ -21,6 +21,7 @@
 | [0622-design-circular-queue](https://github.com/Satyam-hub25/dsa/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Satyam-hub25/dsa/tree/master/0641-design-circular-deque) |
 | [0682-baseball-game](https://github.com/Satyam-hub25/dsa/tree/master/0682-baseball-game) |
+| [0692-top-k-frequent-words](https://github.com/Satyam-hub25/dsa/tree/master/0692-top-k-frequent-words) |
 | [0739-daily-temperatures](https://github.com/Satyam-hub25/dsa/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/Satyam-hub25/dsa/tree/master/0946-validate-stack-sequences) |
 | [1710-maximum-units-on-a-truck](https://github.com/Satyam-hub25/dsa/tree/master/1710-maximum-units-on-a-truck) |
@@ -62,6 +63,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Satyam-hub25/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Satyam-hub25/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/Satyam-hub25/dsa/tree/master/0647-palindromic-substrings) |
+| [0692-top-k-frequent-words](https://github.com/Satyam-hub25/dsa/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/Satyam-hub25/dsa/tree/master/1189-maximum-number-of-balloons) |
 | [3174-clear-digits](https://github.com/Satyam-hub25/dsa/tree/master/3174-clear-digits) |
 ## Dynamic Programming
@@ -84,6 +86,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Satyam-hub25/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Satyam-hub25/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Satyam-hub25/dsa/tree/master/0496-next-greater-element-i) |
+| [0692-top-k-frequent-words](https://github.com/Satyam-hub25/dsa/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/Satyam-hub25/dsa/tree/master/1189-maximum-number-of-balloons) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Satyam-hub25/dsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Counting
@@ -91,6 +94,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Satyam-hub25/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Satyam-hub25/dsa/tree/master/0387-first-unique-character-in-a-string) |
+| [0692-top-k-frequent-words](https://github.com/Satyam-hub25/dsa/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/Satyam-hub25/dsa/tree/master/1189-maximum-number-of-balloons) |
 ## Sorting
 |  |
@@ -99,6 +103,7 @@
 | [0088-merge-sorted-array](https://github.com/Satyam-hub25/dsa/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Satyam-hub25/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Satyam-hub25/dsa/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/Satyam-hub25/dsa/tree/master/0692-top-k-frequent-words) |
 | [1710-maximum-units-on-a-truck](https://github.com/Satyam-hub25/dsa/tree/master/1710-maximum-units-on-a-truck) |
 | [2974-minimum-number-game](https://github.com/Satyam-hub25/dsa/tree/master/2974-minimum-number-game) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Satyam-hub25/dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -185,6 +190,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Satyam-hub25/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Satyam-hub25/dsa/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Satyam-hub25/dsa/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/Satyam-hub25/dsa/tree/master/0692-top-k-frequent-words) |
 | [2974-minimum-number-game](https://github.com/Satyam-hub25/dsa/tree/master/2974-minimum-number-game) |
 ## Monotonic Queue
 |  |
@@ -208,4 +214,9 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Satyam-hub25/dsa/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/Satyam-hub25/dsa/tree/master/0692-top-k-frequent-words) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/Satyam-hub25/dsa/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
