@@ -180,6 +180,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Satyam-hub25/dsa/tree/master/0078-subsets) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Satyam-hub25/dsa/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sliding Window
 |  |
 | ------- |
@@ -219,4 +220,8 @@
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Satyam-hub25/dsa/tree/master/0692-top-k-frequent-words) |
+## Math
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Satyam-hub25/dsa/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
