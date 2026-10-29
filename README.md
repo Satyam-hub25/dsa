@@ -24,6 +24,7 @@
 | [0692-top-k-frequent-words](https://github.com/Satyam-hub25/dsa/tree/master/0692-top-k-frequent-words) |
 | [0739-daily-temperatures](https://github.com/Satyam-hub25/dsa/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/Satyam-hub25/dsa/tree/master/0946-validate-stack-sequences) |
+| [1046-last-stone-weight](https://github.com/Satyam-hub25/dsa/tree/master/1046-last-stone-weight) |
 | [1710-maximum-units-on-a-truck](https://github.com/Satyam-hub25/dsa/tree/master/1710-maximum-units-on-a-truck) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Satyam-hub25/dsa/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2865-beautiful-towers-i](https://github.com/Satyam-hub25/dsa/tree/master/2865-beautiful-towers-i) |
@@ -192,6 +193,7 @@
 | [0239-sliding-window-maximum](https://github.com/Satyam-hub25/dsa/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Satyam-hub25/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Satyam-hub25/dsa/tree/master/0692-top-k-frequent-words) |
+| [1046-last-stone-weight](https://github.com/Satyam-hub25/dsa/tree/master/1046-last-stone-weight) |
 | [2974-minimum-number-game](https://github.com/Satyam-hub25/dsa/tree/master/2974-minimum-number-game) |
 ## Monotonic Queue
 |  |
