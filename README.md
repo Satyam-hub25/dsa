@@ -24,6 +24,7 @@
 | [0692-top-k-frequent-words](https://github.com/Satyam-hub25/dsa/tree/master/0692-top-k-frequent-words) |
 | [0739-daily-temperatures](https://github.com/Satyam-hub25/dsa/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/Satyam-hub25/dsa/tree/master/0946-validate-stack-sequences) |
+| [1037-valid-boomerang](https://github.com/Satyam-hub25/dsa/tree/master/1037-valid-boomerang) |
 | [1046-last-stone-weight](https://github.com/Satyam-hub25/dsa/tree/master/1046-last-stone-weight) |
 | [1710-maximum-units-on-a-truck](https://github.com/Satyam-hub25/dsa/tree/master/1710-maximum-units-on-a-truck) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Satyam-hub25/dsa/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -225,5 +226,10 @@
 ## Math
 |  |
 | ------- |
+| [1037-valid-boomerang](https://github.com/Satyam-hub25/dsa/tree/master/1037-valid-boomerang) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Satyam-hub25/dsa/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Geometry
+|  |
+| ------- |
+| [1037-valid-boomerang](https://github.com/Satyam-hub25/dsa/tree/master/1037-valid-boomerang) |
 <!---LeetCode Topics End-->
