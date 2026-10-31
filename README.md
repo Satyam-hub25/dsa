@@ -226,6 +226,7 @@
 ## Math
 |  |
 | ------- |
+| [0263-ugly-number](https://github.com/Satyam-hub25/dsa/tree/master/0263-ugly-number) |
 | [1037-valid-boomerang](https://github.com/Satyam-hub25/dsa/tree/master/1037-valid-boomerang) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Satyam-hub25/dsa/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Geometry
