@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Satyam-hub25/dsa/tree/master/0033-search-in-rotated-sorted-array) |
+| [0055-jump-game](https://github.com/Satyam-hub25/dsa/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Satyam-hub25/dsa/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Satyam-hub25/dsa/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Satyam-hub25/dsa/tree/master/0078-subsets) |
@@ -71,12 +72,14 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Satyam-hub25/dsa/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Satyam-hub25/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Satyam-hub25/dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0647-palindromic-substrings](https://github.com/Satyam-hub25/dsa/tree/master/0647-palindromic-substrings) |
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Satyam-hub25/dsa/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Satyam-hub25/dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1710-maximum-units-on-a-truck](https://github.com/Satyam-hub25/dsa/tree/master/1710-maximum-units-on-a-truck) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Satyam-hub25/dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
