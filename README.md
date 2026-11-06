@@ -15,6 +15,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Satyam-hub25/dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/Satyam-hub25/dsa/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Satyam-hub25/dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [0238-product-of-array-except-self](https://github.com/Satyam-hub25/dsa/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Satyam-hub25/dsa/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Satyam-hub25/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Satyam-hub25/dsa/tree/master/0496-next-greater-element-i) |
@@ -236,4 +237,8 @@
 |  |
 | ------- |
 | [1037-valid-boomerang](https://github.com/Satyam-hub25/dsa/tree/master/1037-valid-boomerang) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Satyam-hub25/dsa/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
