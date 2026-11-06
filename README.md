@@ -63,6 +63,7 @@
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Satyam-hub25/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0071-simplify-path](https://github.com/Satyam-hub25/dsa/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/Satyam-hub25/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Satyam-hub25/dsa/tree/master/0387-first-unique-character-in-a-string) |
@@ -127,6 +128,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Satyam-hub25/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Satyam-hub25/dsa/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/Satyam-hub25/dsa/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Satyam-hub25/dsa/tree/master/0151-reverse-words-in-a-string) |
@@ -241,4 +243,20 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Satyam-hub25/dsa/tree/master/0238-product-of-array-except-self) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Satyam-hub25/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Satyam-hub25/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Satyam-hub25/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Satyam-hub25/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
