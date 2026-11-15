@@ -36,6 +36,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Satyam-hub25/dsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2974-minimum-number-game](https://github.com/Satyam-hub25/dsa/tree/master/2974-minimum-number-game) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Satyam-hub25/dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Satyam-hub25/dsa/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -239,6 +240,7 @@
 | [0263-ugly-number](https://github.com/Satyam-hub25/dsa/tree/master/0263-ugly-number) |
 | [1037-valid-boomerang](https://github.com/Satyam-hub25/dsa/tree/master/1037-valid-boomerang) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Satyam-hub25/dsa/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Satyam-hub25/dsa/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Geometry
 |  |
 | ------- |
