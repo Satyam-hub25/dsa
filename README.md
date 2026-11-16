@@ -31,6 +31,7 @@
 | [1037-valid-boomerang](https://github.com/Satyam-hub25/dsa/tree/master/1037-valid-boomerang) |
 | [1046-last-stone-weight](https://github.com/Satyam-hub25/dsa/tree/master/1046-last-stone-weight) |
 | [1710-maximum-units-on-a-truck](https://github.com/Satyam-hub25/dsa/tree/master/1710-maximum-units-on-a-truck) |
+| [1833-maximum-ice-cream-bars](https://github.com/Satyam-hub25/dsa/tree/master/1833-maximum-ice-cream-bars) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Satyam-hub25/dsa/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2865-beautiful-towers-i](https://github.com/Satyam-hub25/dsa/tree/master/2865-beautiful-towers-i) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Satyam-hub25/dsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -87,6 +88,7 @@
 | [0055-jump-game](https://github.com/Satyam-hub25/dsa/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Satyam-hub25/dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1710-maximum-units-on-a-truck](https://github.com/Satyam-hub25/dsa/tree/master/1710-maximum-units-on-a-truck) |
+| [1833-maximum-ice-cream-bars](https://github.com/Satyam-hub25/dsa/tree/master/1833-maximum-ice-cream-bars) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Satyam-hub25/dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
@@ -115,6 +117,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Satyam-hub25/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Satyam-hub25/dsa/tree/master/0692-top-k-frequent-words) |
 | [1710-maximum-units-on-a-truck](https://github.com/Satyam-hub25/dsa/tree/master/1710-maximum-units-on-a-truck) |
+| [1833-maximum-ice-cream-bars](https://github.com/Satyam-hub25/dsa/tree/master/1833-maximum-ice-cream-bars) |
 | [2974-minimum-number-game](https://github.com/Satyam-hub25/dsa/tree/master/2974-minimum-number-game) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Satyam-hub25/dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Monotonic Stack
@@ -265,4 +268,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Satyam-hub25/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Satyam-hub25/dsa/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
