@@ -73,6 +73,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Satyam-hub25/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/Satyam-hub25/dsa/tree/master/0647-palindromic-substrings) |
 | [0692-top-k-frequent-words](https://github.com/Satyam-hub25/dsa/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/Satyam-hub25/dsa/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Satyam-hub25/dsa/tree/master/1189-maximum-number-of-balloons) |
 | [3174-clear-digits](https://github.com/Satyam-hub25/dsa/tree/master/3174-clear-digits) |
 ## Dynamic Programming
@@ -87,6 +88,7 @@
 | ------- |
 | [0055-jump-game](https://github.com/Satyam-hub25/dsa/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Satyam-hub25/dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0767-reorganize-string](https://github.com/Satyam-hub25/dsa/tree/master/0767-reorganize-string) |
 | [1710-maximum-units-on-a-truck](https://github.com/Satyam-hub25/dsa/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/Satyam-hub25/dsa/tree/master/1833-maximum-ice-cream-bars) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Satyam-hub25/dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -99,6 +101,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Satyam-hub25/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Satyam-hub25/dsa/tree/master/0496-next-greater-element-i) |
 | [0692-top-k-frequent-words](https://github.com/Satyam-hub25/dsa/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/Satyam-hub25/dsa/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Satyam-hub25/dsa/tree/master/1189-maximum-number-of-balloons) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Satyam-hub25/dsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Counting
@@ -107,6 +110,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Satyam-hub25/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Satyam-hub25/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/Satyam-hub25/dsa/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/Satyam-hub25/dsa/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Satyam-hub25/dsa/tree/master/1189-maximum-number-of-balloons) |
 ## Sorting
 |  |
@@ -116,6 +120,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Satyam-hub25/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Satyam-hub25/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Satyam-hub25/dsa/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/Satyam-hub25/dsa/tree/master/0767-reorganize-string) |
 | [1710-maximum-units-on-a-truck](https://github.com/Satyam-hub25/dsa/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/Satyam-hub25/dsa/tree/master/1833-maximum-ice-cream-bars) |
 | [2974-minimum-number-game](https://github.com/Satyam-hub25/dsa/tree/master/2974-minimum-number-game) |
@@ -208,6 +213,7 @@
 | [0239-sliding-window-maximum](https://github.com/Satyam-hub25/dsa/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Satyam-hub25/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Satyam-hub25/dsa/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/Satyam-hub25/dsa/tree/master/0767-reorganize-string) |
 | [1046-last-stone-weight](https://github.com/Satyam-hub25/dsa/tree/master/1046-last-stone-weight) |
 | [2974-minimum-number-game](https://github.com/Satyam-hub25/dsa/tree/master/2974-minimum-number-game) |
 ## Monotonic Queue
